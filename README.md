@@ -6,9 +6,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Akash Kumar Singh </h1>
 <h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨.</h4>
 
-🌍 I'm based in Varanasi, UttarPradesh
+🌍 I'm from Varanasi, UttarPradesh
 
-⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
+⚛️ Some technologies that I love to work includes MERN stack, Typescript & Web Testing.
 
 🚀 I have learned couple of CSS libraries like Chakra UI & styled-components.
 
