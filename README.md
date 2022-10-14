@@ -39,9 +39,18 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=itsAkash12&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsAkash12&theme=react&hide_border=false)<br/>
+ 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=itsAkash12&theme=tokyonight&border_radius=10" alt="akash" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsAkash12&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkash12&theme=tokyonight" alt="Akash" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=itsAkash12&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+<div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAkash12&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](./profile-3d-contrib/profile-night-green.svg)
