@@ -15,6 +15,9 @@
 📧 Email - akashviratsingh018@gmail.com
 
 💼<a href="https://itsakash12.github.io/" target="_blank">Portfolio</a> - https://itsakash12.github.io/
+
+<a href="https://www.linkedin.com/in/akash-kumar-singh-36a81523a" target="_blank" >LinkedIn</a> - https://www.linkedin.com/in/akash-kumar-singh-36a81523a
+
 ## 🌐 Socials
 <a href="https://www.linkedin.com/in/akash-kumar-singh-36a81523a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash" height="30" width="40" /></a>
 
