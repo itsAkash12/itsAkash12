@@ -4,7 +4,7 @@
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Akash Kumar Singh </h1>
-<h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨.</h4>
+<h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨. Besides coding, I love playing Cricket, traveling and Listening Music.</h4>
 
 🌍 I'm from Varanasi, UttarPradesh
 
@@ -46,8 +46,9 @@
 </div>
   
 <div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=itsAkash12&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsAkash12&show_icons=true&locale=en&layout=compact" alt="akash" />
 </div>
+
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
