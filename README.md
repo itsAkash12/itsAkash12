@@ -14,14 +14,13 @@
 
 🚀 Besides coding, I love playing Cricket, traveling and Listening Music.
 
+## 🌐 Socials
+
 📧 Email - akashviratsingh018@gmail.com
 
 💼<a href="https://itsakash12.github.io/" target="_blank">Portfolio</a> - https://itsakash12.github.io/
 
-<a href="https://www.linkedin.com/in/akash-kumar-singh-36a81523a" target="_blank" >LinkedIn</a> - https://www.linkedin.com/in/akash-kumar-singh-36a81523a
-
-## 🌐 Socials
-<a href="https://www.linkedin.com/in/akash-kumar-singh-36a81523a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash" height="30" width="40" /></a>
+🌐<a href="https://www.linkedin.com/in/akash-kumar-singh-36a81523a" target="_blank" >LinkedIn</a> - https://www.linkedin.com/in/akash-kumar-singh-36a81523a
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
